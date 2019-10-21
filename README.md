@@ -1,5 +1,5 @@
 # Tutorial
-By Vu Van Long vulong3896@gmail.com
+By Do Ngoc Tuyen ngoctuyendo.hust@gmail.com
 ## Facebook tagged images filter and preprocessing
 - First step make sure you have a folder with tagged image cralw from Facebook. The folder have struture like that:
 
